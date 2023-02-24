@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.6.4)
+  - MarqueeLabel (4.3.0)
+  - Nimble (11.2.1)
+  - NotificationBannerSwift (3.2.0):
+    - MarqueeLabel (~> 4.3.0)
+    - SnapKit (~> 5.6.0)
+  - Quick (6.1.0)
+  - ReactiveCocoa (11.2.2):
+    - ReactiveSwift (~> 6.6)
+  - ReactiveSwift (6.7.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Nimble
+  - NotificationBannerSwift
+  - Quick
+  - ReactiveCocoa (~> 11.2)
+  - ReactiveSwift (~> 6.7)
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MarqueeLabel
+    - Nimble
+    - NotificationBannerSwift
+    - Quick
+    - ReactiveCocoa
+    - ReactiveSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  MarqueeLabel: 02f5ac8fd6877c94564556cb93fa86c70c08baeb
+  Nimble: 516ac503a0fafaa8e41dbb4a70a61be421fa893a
+  NotificationBannerSwift: 437e135298d297fcb03f3eec4466f45cdb128d3d
+  Quick: 6676ffb409bf04abba2ff23902af2407bfc6ac90
+  ReactiveCocoa: e539cd41c523c8c80851b88e9723235c933b024b
+  ReactiveSwift: 208201d6ecc9734196d147aa76bc1f24b1b821fe
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 459f5aa07777455e5b86a699bb1b6b087b584855
+
+COCOAPODS: 1.11.3
